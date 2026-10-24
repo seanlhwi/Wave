@@ -1,4 +1,4 @@
-# Wave
+[README.md](https://github.com/user-attachments/files/33898738/README.md)# Wave
 An aesthetic horizontal pencil holder with a lever to lift the pencil for easy access.
 
 [Demo Video](https://www.youtube.com/watch?v=NQgvl-1CRQo)
@@ -20,8 +20,9 @@ The assembly is pretty straightforward, and can be done by only looking at the p
 <img width="2268" height="4032" alt="Untitled - October 22, 2026 at 20 41 01" src="https://github.com/user-attachments/assets/71256a46-be76-492d-8ff2-5d1298331935" />
 <img width="2268" height="4032" alt="Untitled - October 22, 2026 at 20 45 05" src="https://github.com/user-attachments/assets/c0c90bdb-6a90-4747-8f24-ebc4ca958509" />
 
-[bom.csv](https://github.com/user-attachments/files/33898722/bom.csv)
-Reference,Part,Description,Quantity,Supplier,Part Number,Notes
--,None,No parts required,0,-,-,No additional parts needed
+[Upl## Bill of Materials
 
-
+| Reference | Part | Description | Quantity | Supplier | Part Number | Notes |
+|-----------|------|-------------|----------|----------|-------------|-------|
+| - | None | No parts required | 0 | - | - | No additional parts needed |
+oading README.md…]()
