@@ -24,4 +24,4 @@ Bill of Materials
 
 | Reference | Part | Description | Quantity | Supplier | Part Number | Notes |
 |-----------|------|-------------|----------|----------|-------------|-------|
-| - | None | No parts required | 0 | - | - | No additional parts needed |
+| None| None | None | 0 | None | None | No additional parts needed |
