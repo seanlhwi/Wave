@@ -19,3 +19,6 @@ The assembly is pretty straightforward, and can be done by only looking at the p
 <img width="1785" height="1012" alt="Screenshot 2026-10-22 at 8 31 55 PM" src="https://github.com/user-attachments/assets/977a659c-9157-483b-9974-a1c3dc85b358" />
 <img width="2268" height="4032" alt="Untitled - October 22, 2026 at 20 41 01" src="https://github.com/user-attachments/assets/71256a46-be76-492d-8ff2-5d1298331935" />
 <img width="2268" height="4032" alt="Untitled - October 22, 2026 at 20 45 05" src="https://github.com/user-attachments/assets/c0c90bdb-6a90-4747-8f24-ebc4ca958509" />
+
+[Link](https://cad.onshape.com/documents/e613a18cc5a871a14fb9318e/w/8ef8eb64c15deb9ffe2f0e5e/e/b199f0ddba6e296bd71b392a)
+
