@@ -20,5 +20,8 @@ The assembly is pretty straightforward, and can be done by only looking at the p
 <img width="2268" height="4032" alt="Untitled - October 22, 2026 at 20 41 01" src="https://github.com/user-attachments/assets/71256a46-be76-492d-8ff2-5d1298331935" />
 <img width="2268" height="4032" alt="Untitled - October 22, 2026 at 20 45 05" src="https://github.com/user-attachments/assets/c0c90bdb-6a90-4747-8f24-ebc4ca958509" />
 
-[Link](https://cad.onshape.com/documents/e613a18cc5a871a14fb9318e/w/8ef8eb64c15deb9ffe2f0e5e/e/b199f0ddba6e296bd71b392a)
+[bom.csv](https://github.com/user-attachments/files/33898722/bom.csv)
+Reference,Part,Description,Quantity,Supplier,Part Number,Notes
+-,None,No parts required,0,-,-,No additional parts needed
+
 
